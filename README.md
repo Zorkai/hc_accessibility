@@ -27,3 +27,6 @@ If that's the case, you can go ahead and click on the "Set a cookie" button to a
 F12 -> Storage -> hc_accessibility -> Copy the value and you're good to go!
 #### Chrome
 F12 -> Application -> Cookies -> hc_accessibility -> Copy the value and you're good to go!
+
+### 5. Request an update.
+Request an update for the cookie at https://genefit.cc/accessibility.
